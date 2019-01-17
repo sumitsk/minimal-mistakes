@@ -24,10 +24,10 @@ url                      : "https://sumitsk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sumitsk/sumitsk.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 75
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -110,23 +110,23 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Research Assistant at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  email            : sumitsk@cmu.edu
+  email            : # sumitsk@cmu.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:sumitsk@cmu.edu
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sumitsk.github.io/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://sumitsk.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sumitsk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sumitsk4s"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sumitkr4"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sumitsk/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

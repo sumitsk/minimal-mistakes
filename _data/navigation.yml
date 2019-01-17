@@ -1,12 +1,10 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Projects"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Code"
-  #   url: /year-archive/
-  # - title: "CV"
-  #   url: /collection-archive/
+  - title: "Projects"
+    url: 
+  - title: "Code"
+    url: https://github.com/sumitsk
+  - title: "CV"
+    url: 
   # - title: "Sitemap"
   #   url: /sitemap/
