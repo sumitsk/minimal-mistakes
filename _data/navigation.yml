@@ -1,10 +1,9 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "Research"
     url: 
   - title: "Code"
     url: https://github.com/sumitsk
   - title: "CV"
     url: 
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  
